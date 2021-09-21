@@ -12,3 +12,16 @@ body
     border: 1 px solid #DDD;
     margin: 0 auto;
 }
+
+#cabcera
+{
+    background: #33f;
+    color: white;
+    margin: 0;
+    padding: 0.5em;
+}
+
+#container h1
+{
+
+}
